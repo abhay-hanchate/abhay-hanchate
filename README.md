@@ -1,72 +1,80 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Abhay%20Hanchate&fontSize=42&fontAlignY=35&desc=Creative%20Developer%20%C2%B7%20Designer%20%C2%B7%20Visual%20Thinker&descSize=16&descAlignY=55&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/abhay-hanchate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:abhayhanchate.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/abhay-hanchate"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="./assets/cutie-cat.svg" width="100%" alt="Animated cat developer terminal"/>
+
+<br/>
+
+**web developer · UI/UX designer · AI/DS student**
+
+*Making the internet prettier, one questionable commit at a time.*
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-181825?style=flat-square&logo=googlechrome&logoColor=f5c2e7)](https://github.com/abhay-hanchate)
+[![GitHub](https://img.shields.io/badge/GITHUB-abhay--hanchate-181825?style=flat-square&logo=github&logoColor=cba6f7)](https://github.com/abhay-hanchate)
 
 </div>
 
-<br />
+---
 
+### `~/about-me`
+
+Heyyy Cutie Pieee
+
+I like my code like my relationships — a little toxic, hard to quit, and keeping me up all night.
+
+```js
+const abhay = {
+  currently: "making pixels behave",
+  into: ["web dev", "UI/UX", "AI/ML", "3D web"],
+  loveLanguage: "it works on my machine",
+  sleepSchedule: null,
+  redFlags: ["one more feature", "late-night debugging"],
+  relationshipWithBugs: "it's complicated"
+};
 ```
- I build websites that feel like experiences — blending clean code with sharp design.
- From Figma wireframes to Blender renders, I bring ideas to life across every pixel.
-```
 
-<br />
+### `~/things-i-build`
 
-## ◆ What I Work With
+| Project | What's the lore? |
+| --- | --- |
+| [Vision Systems & Solutions](https://visionsystemsandsolutions.in/) | Client work, but make it look good. |
+| [TallyPrime](https://snippykid.github.io/TallyPrime/) | Business software, integrations and web design. |
+| [Portfolio experiments](https://github.com/abhay-hanchate?tab=repositories) | Little ideas that got out of hand. |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,python,figma,blender&theme=light&perline=10" />
-</div>
+### `~/current-obsessions`
 
-<br />
+- Interactive websites that have absolutely no business looking this good.
+- GSAP, Three.js and motion that makes scrolling feel illegal.
+- AI/ML projects that do more than print `Hello World`.
+- Turning a 10-minute task into a three-hour side quest.
 
-## ◆ GitHub at a Glance
+### `~/known-issues`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhay-hanchate&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=00000000&title_color=C9A0DC&icon_color=C9A0DC&text_color=adbac7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abhay-hanchate&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhay-hanchate&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=00000000&title_color=C9A0DC&icon_color=C9A0DC&text_color=adbac7" height="170" alt="stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-hanchate&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&title_color=C9A0DC&text_color=adbac7&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-hanchate&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=8B5CF6&langs_count=6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-hanchate&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&title_color=C9A0DC&text_color=adbac7&langs_count=6" height="170" alt="languages" />
-  </picture>
-</div>
+<details>
+<summary>Click here before opening a bug report</summary>
 
-<br />
+<br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhay-hanchate&theme=transparent&hide_border=true&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC&sideLabels=adbac7&dates=636e7b" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=abhay-hanchate&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-    <img src="https://streak-stats.demolab.com?user=abhay-hanchate&theme=transparent&hide_border=true&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC&sideLabels=adbac7&dates=636e7b" width="52%" alt="streak" />
-  </picture>
-</div>
+- Sleeps after saying "last commit".
+- Treats every UI detail like a personal enemy.
+- Has 37 tabs open and knows exactly where nothing is.
+- Calls it refactoring when the code gets worse.
+- Somehow introduces three new bugs while fixing one.
 
-<br />
+</details>
 
-<div align="center">
+### `~/contribution.exe`
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay-hanchate&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&color=C9A0DC&line=C9A0DC&point=ffffff&area=true&area_color=C9A0DC" width="95%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
-</div>
-
-<br />
+<sub>The snake eats my contributions. I eat the bugs. Fair trade.</sub>
 
 ---
 
 <div align="center">
-  <sub>Building things that look good and work even better.</sub>
+
+**If you're still here, at least star something.**
+
+<sub>Built with caffeine, questionable decisions, and code that passed on the second try.</sub>
+
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
