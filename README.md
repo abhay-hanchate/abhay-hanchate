@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyyy Cutie Pieee ;)
+# Heyyy I'm Abhay Hanchate;)
 
 **Web Developer · UI/UX Designer · Freelancer · AI/DS Student**
 
