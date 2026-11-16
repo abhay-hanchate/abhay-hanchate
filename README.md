@@ -1,75 +1,112 @@
 <div align="center">
 
-# Heyyy I'm Abhay Hanchate;)
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="65" alt="Animated sparkles" />
 
-**Web Developer · UI/UX Designer · Freelancer · AI/DS Student**
+# Heyyy Cutie Pieee ;)
 
-*Making the internet prettier, one questionable commit at a time.*
+**Abhay Hanchate**
 
-Heyyy cutie, wanna come over and see why it only works on my machine?
+Web Developer · UI/UX Designer · Freelancer · AI & DS Student
+
+<br />
+
+*Heyyy cutie, wanna come over and see why it only works on my machine?*
+
+<br />
+
+[Explore my work](#a-few-things-ive-shipped) · [My toolkit](#what-i-work-with) · [GitHub](https://github.com/abhay-hanchate)
 
 </div>
 
 ---
 
-### `~/about-me`
+### pretty pixels. questionable bedtime.
 
-I build websites, experiment with 3D and motion, and spend way too long deciding how a button should behave.
+I build websites for clients, play with 3D and motion, and spend an unreasonable amount of time making things feel right.
 
-```js
-const abhay = {
-  currently: "making pixels behave",
-  into: ["web dev", "UI/UX", "AI/ML", "3D web"],
-  loveLanguage: "I made you something",
-  sleepSchedule: null,
-  redFlags: ["one more feature", "late-night debugging"],
-  relationshipWithBugs: "it's complicated"
-};
-```
+My type? Clean interfaces, smooth transitions, and people who notice the hover effect.
 
-### `~/things-i-build`
+Currently somewhere between **“this looks good”** and **“what if I animated it?”**
 
-| Project | What's the lore? |
-| --- | --- |
-| [Vision Systems & Solutions](https://visionsystemsandsolutions.in/) | Client work, but make it look good. |
-| [TallyPrime](https://snippykid.github.io/TallyPrime/) | Business services meet web design. |
-| [More experiments](https://github.com/abhay-hanchate?tab=repositories) | Little ideas that got out of hand. |
+<br />
 
-### `~/my-toolbox`
+### A few things I've shipped
 
-- **Frontend** — HTML, CSS, JavaScript, React, Tailwind CSS
-- **Motion & 3D** — GSAP, Three.js
-- **Backend & Databases** — Node.js, Express, PHP, MySQL, MongoDB
-- **AI/ML** — Python, scikit-learn, TensorFlow
+<img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="85" alt="Animated rocket" />
 
-### `~/current-obsessions`
+**[Vision Systems & Solutions ↗](https://visionsystemsandsolutions.in/)**  
+A corporate website built for a real client. Yes, I can behave professionally.
+
+**[TallyPrime ↗](https://snippykid.github.io/TallyPrime/)**  
+A business services website covering TallyPrime and integrations.
+
+**[The side-project rabbit hole ↗](https://github.com/abhay-hanchate?tab=repositories)**  
+Little ideas that got out of hand. Some of them even have documentation.
+
+<br clear="all" />
+
+### What I work with
+
+| | The toolkit |
+| :--- | :--- |
+| **Interfaces** | HTML · CSS · JavaScript · React · Tailwind CSS |
+| **Motion & 3D** | GSAP · Three.js |
+| **Behind the scenes** | Node.js · Express · PHP |
+| **Databases** | MySQL · MongoDB |
+| **AI/ML** | Python · scikit-learn · TensorFlow |
+
+<br />
+
+### Currently keeping me up
 
 - Interactive websites with a little too much personality.
-- GSAP, Three.js, and finding another excuse to animate something.
+- Finding another excuse to put something in 3D.
 - AI/ML projects that solve actual problems.
-- Turning a 10-minute task into a three-hour side quest.
+- A “quick fix” that's now old enough to have a birthday.
 
-### `~/known-issues`
+<br />
 
 <details>
-<summary>Click here before getting attached</summary>
+<summary><strong>Before you get attached...</strong></summary>
+
+<br />
 
 - “Last commit” is a recurring bedtime story.
-- Will notice if something is two pixels off.
-- Has 37 tabs open and knows exactly where nothing is.
-- Flirts better in Markdown.
-- Fixes one bug. Unlocks three more.
+- I will notice if something is two pixels off.
+- My browser has 37 tabs open. We're all going through something.
+- If I send you a localhost link, assume I'm excited.
+- My love language is “I made you something.”
+- I flirt better in Markdown. Clearly.
 
 </details>
+
+<br />
 
 ---
 
 <div align="center">
 
-**Got a project? Make the first move.**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.gif" width="50" alt="Animated purple heart" />
 
-Open to freelance web projects and internship opportunities.
+### Got a project? Make the first move.
 
-<sub>You’ve scrolled this far. We’re basically pair programming.</sub>
+Open to **freelance web projects** and **internship opportunities**.
+
+You bring the idea. I'll overthink the hover states.
+
+<br />
+
+**[Explore my repositories ↗](https://github.com/abhay-hanchate?tab=repositories)**
+
+<br />
+
+<sub>You've scrolled this far. We're basically pair programming.</sub>
 
 </div>
+
+<details>
+<summary>Animation credits</summary>
+
+Animated emoji by [Google Noto Emoji](https://googlefonts.github.io/noto-emoji-animation/), hosted on Google's CDN. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original images unchanged.
+
+</details>
