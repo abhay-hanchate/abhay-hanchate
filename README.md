@@ -1,82 +1,98 @@
 <div align="center">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="65" alt="Animated sparkles" />
+# good interfaces. bad influence.
 
-# Heyyy Cutie Pieee ;)
-
-**Abhay Hanchate**
-
+**ABHAY HANCHATE**  
 Web Developer · UI/UX Designer · Freelancer · AI & DS Student
 
 <br />
 
-*Heyyy cutie, wanna come over and see why it only works on my machine?*
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" alt="Animated neon illustration of a developer coding at night" />
 
 <br />
+<br />
 
-[Explore my work](#a-few-things-ive-shipped) · [My toolkit](#what-i-work-with) · [GitHub](https://github.com/abhay-hanchate)
+**Heyyy cutie, wanna come over and see why it only works on my machine?**
+
+<sub>Making the internet prettier, one questionable commit at a time.</sub>
+
+<br />
+<br />
+
+[THE WORK](#things-that-made-it-out-of-localhost) &nbsp; · &nbsp;
+[THE TOOLKIT](#a-little-style-a-little-substance) &nbsp; · &nbsp;
+[THE DEVELOPER](https://github.com/abhay-hanchate)
 
 </div>
 
 ---
 
-### pretty pixels. questionable bedtime.
+### I make things you want to click.
 
-I build websites for clients, play with 3D and motion, and spend an unreasonable amount of time making things feel right.
+Websites for clients. Interfaces with personality.  
+3D experiments that started with “hear me out.”
 
-My type? Clean interfaces, smooth transitions, and people who notice the hover effect.
+I care about how a website looks, how it moves, and what happens after you click the pretty button.
 
-Currently somewhere between **“this looks good”** and **“what if I animated it?”**
+**My type? Smooth interactions and people who notice the details.**
 
 <br />
 
-### A few things I've shipped
+### Things that made it out of localhost
 
-<img align="right" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="85" alt="Animated rocket" />
-
-**[Vision Systems & Solutions ↗](https://visionsystemsandsolutions.in/)**  
-A corporate website built for a real client. Yes, I can behave professionally.
-
-**[TallyPrime ↗](https://snippykid.github.io/TallyPrime/)**  
-A business services website covering TallyPrime and integrations.
-
-**[The side-project rabbit hole ↗](https://github.com/abhay-hanchate?tab=repositories)**  
-Little ideas that got out of hand. Some of them even have documentation.
-
-<br clear="all" />
-
-### What I work with
-
-| | The toolkit |
+| Selected work | The story |
 | :--- | :--- |
-| **Interfaces** | HTML · CSS · JavaScript · React · Tailwind CSS |
-| **Motion & 3D** | GSAP · Three.js |
-| **Behind the scenes** | Node.js · Express · PHP |
-| **Databases** | MySQL · MongoDB |
-| **AI/ML** | Python · scikit-learn · TensorFlow |
+| **[Vision Systems & Solutions ↗](https://visionsystemsandsolutions.in/)** | A corporate website built for a real client. Proof I can behave professionally. |
+| **[TallyPrime ↗](https://snippykid.github.io/TallyPrime/)** | A business services website covering TallyPrime and integrations. |
+| **[The experiments ↗](https://github.com/abhay-hanchate?tab=repositories)** | Web projects, creative detours, and ideas that refused to stay small. |
 
 <br />
 
-### Currently keeping me up
+### A little style. A little substance.
 
-- Interactive websites with a little too much personality.
-- Finding another excuse to put something in 3D.
-- AI/ML projects that solve actual problems.
-- A “quick fix” that's now old enough to have a birthday.
+**Frontend**  
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+**Motion & 3D**  
+GSAP · Three.js · Interactive interfaces
+
+**Backend & Data**  
+Node.js · Express · PHP · MySQL · MongoDB
+
+**AI/ML**  
+Python · scikit-learn · TensorFlow
+
+<br />
+
+### Things I fall for
+
+- A transition so smooth you scroll back to see it again.
+- Websites that feel like someone actually cared.
+- Putting something in 3D just to see if I can.
+- An AI/ML idea with a real problem behind it.
+- “I saw your work and had an idea…”
 
 <br />
 
 <details>
-<summary><strong>Before you get attached...</strong></summary>
+<summary><strong>You seem interested. Here's the fine print.</strong></summary>
 
 <br />
 
-- “Last commit” is a recurring bedtime story.
-- I will notice if something is two pixels off.
-- My browser has 37 tabs open. We're all going through something.
-- If I send you a localhost link, assume I'm excited.
-- My love language is “I made you something.”
-- I flirt better in Markdown. Clearly.
+**Love language**  
+“I made you something.”
+
+**Biggest red flag**  
+Saying “one more feature” after midnight.
+
+**Relationship status**  
+Waiting for a deployment.
+
+**Unreasonable expectation**  
+You'll notice the custom cursor.
+
+**A small confession**  
+I spent longer choosing this GIF than fixing that bug.
 
 </details>
 
@@ -86,27 +102,23 @@ Little ideas that got out of hand. Some of them even have documentation.
 
 <div align="center">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.gif" width="50" alt="Animated purple heart" />
-
-### Got a project? Make the first move.
+### Your idea. My next obsession.
 
 Open to **freelance web projects** and **internship opportunities**.
 
-You bring the idea. I'll overthink the hover states.
+You bring the brief. I'll bring a suspicious number of browser tabs.
 
 <br />
 
-**[Explore my repositories ↗](https://github.com/abhay-hanchate?tab=repositories)**
+**[Take a look around ↗](https://github.com/abhay-hanchate?tab=repositories)**
 
 <br />
 
-<sub>You've scrolled this far. We're basically pair programming.</sub>
+<sub>Still here? You're making this look like a crush.</sub>
+
+<br />
+<br />
+
+<sub><a href="https://giphy.com/gifs/L1R1tvI9svkIWwpVYr">Animation source · GIPHY</a></sub>
 
 </div>
-
-<details>
-<summary>Animation credits</summary>
-
-Animated emoji by [Google Noto Emoji](https://googlefonts.github.io/noto-emoji-animation/), hosted on Google's CDN. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original images unchanged.
-
-</details>
